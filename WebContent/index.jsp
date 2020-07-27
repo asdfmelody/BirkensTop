@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
 
@@ -33,7 +33,8 @@
             <a class="nav-link" href="about.html">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="login.html">Login</a>
+            <a class="nav-link" href="login.jsp">Login
+	</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="contact.html">Contact</a>
